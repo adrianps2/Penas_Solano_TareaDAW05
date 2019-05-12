@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usuarios>
+	<usuario>
+		<nombre> Adrian </nombre>
+		<apellidos> Peñas Solano </apellidos>
+		<fnacimiento> 06-03-1997 </fnacimiento>
+	</usuario>
+	<usuario>
+		<nombre> Juan </nombre>
+		<apellidos> Perez Martin </apellidos>
+		<fnacimiento> 12/03/1995 </fnacimiento>
+	</usuario>
+        <usuario>
+                <nombre> Manuel </nombre>
+                <apellidos> Gonzales Medina </apellidos>
+                <fnacimiento> 10/11/1995 </fnacimiento>
+        </usuario>
+</usuario>
