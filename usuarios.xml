@@ -4,15 +4,18 @@
 		<nombre> Adrian </nombre>
 		<apellidos> Peñas Solano </apellidos>
 		<fnacimiento> 06-03-1997 </fnacimiento>
+		<dni> 30216734L </dni>
 	</usuario>
 	<usuario>
 		<nombre> Juan </nombre>
 		<apellidos> Perez Martin </apellidos>
 		<fnacimiento> 12/03/1995 </fnacimiento>
+		<dni> 36274734A </dni>
 	</usuario>
         <usuario>
                 <nombre> Manuel </nombre>
                 <apellidos> Gonzales Medina </apellidos>
                 <fnacimiento> 10/11/1995 </fnacimiento>
+		<dni> 25236723G </dni>
         </usuario>
 </usuario>
